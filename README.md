@@ -43,6 +43,8 @@ print(X)
 ```
 
 ## Output:
+![Screenshot 2023-10-05 194814](https://github.com/Ranjanranjan/LU-Decomposition/assets/130027697/de7839f0-702f-4024-b9e7-66bed651e537)
+
 ![Screenshot 2023-10-05 194829](https://github.com/Ranjanranjan/LU-Decomposition/assets/130027697/70ad7020-f93c-49cf-82e8-c855ae279bda)
 
 
